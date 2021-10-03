@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       ],
       supportedLocales: [
         Locale('ar'),
-        Locale('en')
+       // Locale('en')
       ],
       initialRoute: '/launch_screen',
       routes: {
